@@ -34,6 +34,6 @@ Durante este ciclo me gustaría dominar la gestión del estado en aplicaciones w
 
 
 ## Organización del modulo
-Las carpetas se utilizaran para el uso indicado en el titulo de la carpeta estrictatemente, en el tema 1 divulgará toda la información del tema 1, cuya carpeta de apuntes estara todos los apuntes que vayamos haciendo en este módulo
+Las carpetas se utilizaran para el uso indicado en el titulo de la carpeta estrictatemente, en el tema 1 divulgará toda la información del tema 1, cuya carpeta de apuntes estará todos los apuntes que vayamos haciendo en este módulo
 
 
